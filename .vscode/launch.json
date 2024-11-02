@@ -5,6 +5,12 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Dart",
+            "type": "dart",
+            "request": "launch",
+            "program": "bin/schetrun.dart"
+        },
+        {
             "name": "pdf2b",
             "request": "launch",
             "type": "dart",
